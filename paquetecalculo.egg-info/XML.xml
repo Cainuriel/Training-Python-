@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measCollecFile>
+    <measData>
+        <managedElement userLabel="RNC1"/>
+        <measInfo measInfoId="T12345">
+            <measTypes>C67194793 C67194794 C67194795 C67194796 </measTypes>
+            <measValue measObjLdn="CELDA1">
+                <measResults>1 2 3 4 </measResults>
+            </measValue>
+            <measValue measObjLdn="CELDA2">
+                <measResults>5 6 7 8 </measResults>
+            </measValue>
+            <measValue measObjLdn="CELDA3">
+                <measResults>9 10 11 12 </measResults>
+            </measValue>
+        </measInfo>
+        <measInfo measInfoId="T45687">
+            <measTypes>C125458785 C125458786 C125458787 </measTypes>
+            <measValue measObjLdn="CELDA1">
+                <measResults>11 12 13 </measResults>
+            </measValue>
+            <measValue measObjLdn="CELDA2">
+                <measResults>15 16 17 </measResults>
+            </measValue>
+            <measValue measObjLdn="CELDA3">
+                <measResults>19 110 111 </measResults>
+            </measValue>
+        </measInfo>                            
+    </measData>
+</measCollecFile>
